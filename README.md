@@ -3,7 +3,7 @@
 
 ![](images/1.png)
 
-1. 图上图，选择 `进阶模式`；
+1. 见上图，选择 `进阶模式`；
 2. 在订阅链接文本框内输入你的订阅链接，比如 `SS/SSR/V2Ray/Trojan/Clash` 等的订阅链接，此链接需要从你从机场的用户后台获取；
 3. 选择 `Clash 新参数`；
 4. 远程配置填入 `https://raw.githubusercontent.com/ArriettyQAQ/sub-converter/main/KeLi.ini`；
